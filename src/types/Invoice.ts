@@ -28,6 +28,7 @@ export const VEGETABLES = [
   'Oignons',
   'Carottes',
   'Choux',
+  'Comcombre',
   'Aubergines',
   'Nawé',
   'Nadio',
@@ -42,7 +43,6 @@ export const VEGETABLES = [
   'Pommes de terre',
   'Persils chinois',
   'Diakhatou',
-  'Comcombre',
   'Bissap',
   'Inconues',
 ] as const;
